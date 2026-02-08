@@ -1,0 +1,15 @@
+{
+  "name": "onchain-escrow-service",
+  "version": "1.0.0",
+  "description": "Smart contract for secure peer-to-peer transactions",
+  "dependencies": {
+    "solc": "^0.8.19"
+  },
+  "keywords": [
+    "escrow",
+    "p2p",
+    "blockchain",
+    "solidity",
+    "trustless"
+  ]
+}
